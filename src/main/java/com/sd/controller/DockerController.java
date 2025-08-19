@@ -9,6 +9,6 @@ public class DockerController {
 	@GetMapping
 	public String dockerDemo()
 	{
-		return "Dockering SpringBoot Application";
+		return "Dockerzing SpringBoot Application";
 	}
 }
